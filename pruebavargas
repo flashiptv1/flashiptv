@@ -1,5 +1,4 @@
 #EXTM3U
 
-tvg-group="PELICULAS"
-#EXTINF:-1 tvg-group="DEJEMONOS DE VARGAS",CAPITULO
-https://youtu.be/kAseW5zn9PY?list=PLCHczc0wdeEjFAnAFCRNLYrdDiJ2M9d0h
+#EXTINF:-1 tvg-group="DEJEMONOS DE VARGAS",CAPITULO 1
+https://www.youtube.com/watch?v=kAseW5zn9PY&ab_channel=CanalRCN

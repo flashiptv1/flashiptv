@@ -1,4 +1,7 @@
 #EXTM3U
+
+#EXTINF:-1 channel-id="pluto-61a52615cbef2500072876e2" tvg-id="61a52615cbef2500072876e2" tvg-chno="158" tvg-logo="https://images.pluto.tv/channels/61a52615cbef2500072876e2/colorLogoPNG.png" group-title="Entretenimiento",MTV Shore
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61a52615cbef2500072876e2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1,A&E HD
 http://8.242.187.233:5800/play/a0db/index.m3u8
 #EXTINF:-1,AMC HD
